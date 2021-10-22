@@ -18,6 +18,7 @@ JavaScript (Full Stack)
 
 Ruby(Back-End)
 ----> Rails
-----> PostgreSQL(Database)
+----> PostgreSQL(Database).
+
 
 
